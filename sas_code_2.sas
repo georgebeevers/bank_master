@@ -1,2 +1,1 @@
-proc setinit;
-run;
+new change by gb
