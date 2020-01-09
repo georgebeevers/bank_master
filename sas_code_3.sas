@@ -1,3 +1,1 @@
-/*GB New Code*/
-proc setinit;
-run;
+new change by gb
