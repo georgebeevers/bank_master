@@ -1,6 +1,1 @@
-proc setinit;
-run;
-
-data _null_;
-set;
-run;
+new change by gb
