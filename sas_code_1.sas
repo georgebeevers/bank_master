@@ -8,3 +8,7 @@
 /*Change added to file by George Beevers as part of CHG000005 at Wed, Jan 22, 2020  8:37:39 AM*/
 proc setinit;
 run;
+/*New Change 09-06-2020*/
+data test;
+set sashelp.airline;
+run;
