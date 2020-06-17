@@ -9,6 +9,10 @@
 proc setinit;
 run;
 /*New Change 09-06-2020*/
+data test2;
+set sashelp.airline;
+run;
+
 data test;
 set sashelp.airline;
 run;
