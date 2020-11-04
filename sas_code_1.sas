@@ -14,5 +14,5 @@ set sashelp.airline;
 run;
 
 data test;
-set sashelp.airline;
+set sashelp.airline2;
 run;
